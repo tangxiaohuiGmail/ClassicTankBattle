@@ -1,0 +1,5 @@
+{
+  "name": "Classic Tank Battle",
+  "description": "A web-based classic tank battle game playable on mobile and desktop.",
+  "requestFramePermissions": []
+}

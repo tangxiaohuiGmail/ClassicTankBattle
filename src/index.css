@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  touch-action: none; /* Prevent pull-to-refresh and scrolling on mobile */
+  overflow: hidden;
+  background-color: #111;
+}
